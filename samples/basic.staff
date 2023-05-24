@@ -1,0 +1,19 @@
+title Dios manda lluvia
+subtitle Versión fácil
+author Camilo Cataño
+composer Camilo Cataño
+writer Alvaro Carmona
+year 2023
+text STYLE: ModCountryBld1
+
+tempo 107
+
+begin
+
+system {
+  name Piano
+  clef bass+treble
+
+  oct 4
+  | c1 d1 e1 f1 g1 a1 b1 |
+}
