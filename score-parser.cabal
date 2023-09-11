@@ -1,5 +1,5 @@
 cabal-version:      2.4
-name:               staff-parser
+name:               score-parser
 version:            0.1.0.0
 
 author:             alvaro.carmona
@@ -7,7 +7,7 @@ maintainer:         alvaro.carmona@vivaair.com
 
 extra-source-files: CHANGELOG.md
 
-executable staff-parser
+executable score-parser
     main-is:          Main.hs
 
     build-depends: base ^>=4.14.3.0
